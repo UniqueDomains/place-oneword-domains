@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .PLACE one-word domains still available to buy.
 
-This dataset contains 4,216 .PLACE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,218 .PLACE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.PLACE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=place-oneword-domains&utm_content=description.top) (4,211) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.PLACE one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.place        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.place        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.place  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.place      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.place    | available | 60       | 2%     | 7      |           |         |         |
