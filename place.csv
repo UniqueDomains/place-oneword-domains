@@ -51,7 +51,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 02cacb8f-1282-49cf-805c-7c45b91488d6,inthelongterm.place,available,25.99,,60,1,16,name.com,,
 02e731b0-1c42-444a-be12-a6e41330d697,revolvearound.place,available,25.99,,62,1,14,name.com,,
 02e73d23-0c53-4497-804e-7d7beaad8f1d,havenosympathy.place,available,25.99,,54,1,16,name.com,,
-0308323e-bdc8-45a2-846e-fea2f5c48b7f,time.place,resell,,,92,45,4,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
 030f5cd0-7810-4e36-8f0e-80aa4545fc84,havethefloor.place,available,25.99,,64,1,14,name.com,,
 031f19b7-f902-443a-8f00-b0995466f5eb,collapsed.place,available,25.99,,38,3,9,name.com,,
 0356bbed-4076-437a-8827-a7d8f382ef79,offenses.place,available,22.49,22.49,40,2,8,namesilo,,
@@ -79,7 +78,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 05cefa7f-7239-4279-8379-9db63a14fa54,searches.place,premium,14,28,50,9,8,namecheap,,
 05da2eb6-006e-4544-9e97-48153c8a1d91,windowshop.place,available,25.99,,83,5,11,name.com,,
 05ec9e3e-e0e9-447f-bf95-c1c7f51bf9ce,getoutthevote.place,available,25.99,,70,2,16,name.com,,
-066ed467-30e9-4447-815a-647cc5f90577,dream.place,resell,,,84,45,5,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
 066fe5c0-b569-4890-b926-63dae7a0ac2b,getthenod.place,available,25.99,,77,2,11,name.com,,
 06723ac7-4223-4e2e-9ac3-fd19e1210df3,snowballs.place,available,22.49,22.49,59,7,9,namesilo,,
 0694dda2-aa54-4d93-84c5-5925a1e91f64,gobelow.place,available,25.99,,72,0,8,name.com,,
@@ -838,7 +836,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 497d1238-443f-4ed0-afb0-8e8139a011eb,getlaid.place,available,25.99,,76,6,8,name.com,,
 49965e69-ec41-49b3-9140-19106c31ceb4,PennStation.place,available,30.98,,63,3,12,namecheap,,
 499a273b-22b0-4ebd-b300-2a10ad511488,turnedon.place,available,25.99,,52,3,9,name.com,,
-49a93701-fc66-4d4f-af26-63f85320f2f5,student.place,resell,,,78,36,7,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
 49c7c25f-18f1-4237-99e7-c3422c6a32b7,twentyeight.place,available,25.99,,65,8,12,name.com,,
 49c8a3c1-99d1-444e-a94e-cdfce8404dc3,intheory.place,available,25.99,,52,5,9,name.com,,
 49f286ee-eb94-4df2-bbff-81ba2d51aab3,getupto.place,available,25.99,,74,2,9,name.com,,
@@ -999,3 +996,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 566ab56a-b3d5-4c24-b708-8f5bfb5f3c05,termed.place,available,22.49,22.49,48,4,6,namesilo,,
 5681b057-a2d3-4741-aa74-8abaac8af0c6,reservation.place,available,25.99,,65,19,11,name.com,,
 5682bb9d-7c11-4713-8c4c-321c90d08d5a,coffeeberry.place,available,25.99,,80,4,12,name.com,,
+56b9eee2-0824-492b-bd36-c438f892d3ce,sucks.place,available,25.99,,48,11,5,name.com,,
+56c7de69-ff13-4759-a68d-a31d7c05e46b,intheway.place,available,25.99,,70,3,10,name.com,,
+56d84eba-923a-4153-b838-3595f1ad323a,writes.place,available,25.99,,56,9,6,name.com,,
