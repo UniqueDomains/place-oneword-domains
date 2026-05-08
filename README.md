@@ -1,10 +1,10 @@
-# Available .PLACE One-Word Domains (11,409)
+# Available .PLACE One-Word Domains (11,411)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C409%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C411%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .place one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,409 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,411 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,409 domains · **Median ask:** $27.35 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,411 domains · **Median ask:** $27.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-08  
 **Canonical page:** `https://unique.domains/domains/tld/place`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | mobile.place      | resell    | —         | —             | 62             | 43     | 6      | Porkbun LLC               |
 | bees.place        | premium   | $14       | $28           | 54             | 27     | 4      | namecheap                 |
 | veterans.place    | available | $25.99    | —             | 56             | 23     | 8      | name.com                  |
-| watch.place       | resell    | —         | —             | 76             | 36     | 5      | Porkbun LLC               |
+| watch.place       | resell    | —         | —             | 76             | 37     | 5      | Porkbun LLC               |
 | traders.place     | premium   | $14       | $28           | 60             | 26     | 7      | namecheap                 |
 | webshop.place     | available | $25.99    | —             | 76             | 22     | 8      | name.com                  |
 | quotes.place      | resell    | —         | —             | 58             | 29     | 6      | Go Australia Domains, LLC |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,409 live domains                        |
+| 1,000-row public sample | 11,411 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLACE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLACE One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
