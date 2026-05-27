@@ -64,10 +64,10 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| inspiration.place | available | $25.99    | —             | 88             | 30     | 11     | name.com                  |
+| blocks.place      | available | $25.99    | —             | 53             | 29     | 6      | name.com                  |
 | game.place        | resell    | —         | —             | 88             | 50     | 4      | Porkbun LLC               |
 | payments.place    | premium   | $14       | $28           | 58             | 33     | 8      | namecheap                 |
-| blocks.place      | available | $25.99    | —             | 53             | 29     | 6      | name.com                  |
+| inspiration.place | available | $25.99    | —             | 88             | 27     | 11     | name.com                  |
 | human.place       | resell    | —         | —             | 74             | 49     | 5      | Porkbun LLC               |
 | rewards.place     | premium   | $46.20    | $92.40        | 62             | 30     | 7      | namecheap                 |
 | whats.place       | available | $22.49    | $22.49        | 58             | 24     | 5      | namesilo                  |
@@ -78,11 +78,11 @@ print(df.head())
 | bees.place        | premium   | $14       | $28           | 54             | 27     | 4      | namecheap                 |
 | veterans.place    | available | $25.99    | —             | 56             | 23     | 8      | name.com                  |
 | watch.place       | resell    | —         | —             | 76             | 37     | 5      | Porkbun LLC               |
-| traders.place     | premium   | $14       | $28           | 60             | 26     | 7      | namecheap                 |
-| webshop.place     | available | $25.99    | —             | 76             | 22     | 8      | name.com                  |
+| traders.place     | premium   | $14       | $28           | 60             | 25     | 7      | namecheap                 |
+| guns.place        | available | $25.99    | —             | 68             | 22     | 4      | name.com                  |
 | quotes.place      | resell    | —         | —             | 58             | 29     | 6      | Go Australia Domains, LLC |
 | schools.place     | premium   | $14       | $28           | 72             | 24     | 7      | namecheap                 |
-| guns.place        | available | $25.99    | —             | 68             | 22     | 4      | name.com                  |
+| origins.place     | available | $25.99    | —             | 46             | 22     | 7      | name.com                  |
 | spicy.place       | resell    | —         | —             | 81             | 28     | 5      | NameCheap, Inc.           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
