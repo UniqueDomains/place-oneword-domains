@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .place one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,411 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,411 domains · **Median ask:** $27.35 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,411 domains · **Median ask:** $25.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/place`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/place`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PLACE one-word domain
 
 ### Files
 
-- `place.csv` — public CSV extract (1,000 rows)
-- `place.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `place.csv`, public CSV extract (1,000 rows)
+- `place.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| blocks.place      | available | $25.99    | —             | 53             | 29     | 6      | name.com                  |
-| game.place        | resell    | —         | —             | 88             | 50     | 4      | Porkbun LLC               |
-| payments.place    | premium   | $14       | $28           | 58             | 33     | 8      | namecheap                 |
-| inspiration.place | available | $25.99    | —             | 88             | 27     | 11     | name.com                  |
-| human.place       | resell    | —         | —             | 74             | 49     | 5      | Porkbun LLC               |
-| rewards.place     | premium   | $46.20    | $92.40        | 62             | 30     | 7      | namecheap                 |
-| whats.place       | available | $22.49    | $22.49        | 58             | 24     | 5      | namesilo                  |
-| coffee.place      | resell    | —         | —             | 76             | 43     | 6      | Porkbun LLC               |
-| videos.place      | premium   | $14       | $28           | 52             | 30     | 6      | namecheap                 |
-| holidays.place    | available | $22.49    | $22.49        | 78             | 23     | 8      | namesilo                  |
-| mobile.place      | resell    | —         | —             | 62             | 43     | 6      | Porkbun LLC               |
-| bees.place        | premium   | $14       | $28           | 54             | 27     | 4      | namecheap                 |
-| veterans.place    | available | $25.99    | —             | 56             | 23     | 8      | name.com                  |
-| watch.place       | resell    | —         | —             | 76             | 37     | 5      | Porkbun LLC               |
-| traders.place     | premium   | $14       | $28           | 60             | 25     | 7      | namecheap                 |
-| guns.place        | available | $25.99    | —             | 68             | 22     | 4      | name.com                  |
-| quotes.place      | resell    | —         | —             | 58             | 29     | 6      | Go Australia Domains, LLC |
-| schools.place     | premium   | $14       | $28           | 72             | 24     | 7      | namecheap                 |
-| origins.place     | available | $25.99    | —             | 46             | 22     | 7      | name.com                  |
-| spicy.place       | resell    | —         | —             | 81             | 28     | 5      | NameCheap, Inc.           |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| aim.place    | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                   |
+| old.place    | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                |
+| aaa.place    | premium   | $26       | $26           | high           | medium | 3      | namecheap                  |
+| are.place    | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                   |
+| tax.place    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC               |
+| btw.place    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
+| BJP.place    | available | $25.99    | —             | medium         | low    | 3      | name.com                   |
+| date.place   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                |
+| dye.place    | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap                  |
+| bob.place    | available | $22.49    | $22.49        | high           | medium | 3      | namesilo                   |
+| press.place  | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC                |
+| ear.place    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
+| cup.place    | available | $25.99    | —             | high           | low    | 3      | name.com                   |
+| unity.place  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC               |
+| fee.place    | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap                  |
+| gal.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo                   |
+| center.place | resell    | —         | —             | high           | high   | 6      | Squarespace Domains II LLC |
+| gag.place    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
+| gee.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo                   |
+| design.place | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 2           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word domains on the .place extension. The names range from direct terms like consult.place and express.place to broader or more unusual words like renegade.place and knowledgeable.place. When comparing these domains, focus on whether the word makes sense with “place” as a suffix, whether it sounds natural when spoken aloud, and whether the full name is easy to remember. The median ask is 27.35, which keeps entry pricing accessible, but low price alone does not make a name strong. Favor words with clear commercial meaning, clean spelling, and obvious use cases.
+This list covers 11,411 one-word .place domain names, including compound picks like whitewater.place, solarenergy.place, and destination.place. The .place extension suits location, lifestyle, and community-themed brands, with a median ask of $25 across the set. Pricing stays accessible, making it easy to compare options and secure a domain that fits your budget before renewal costs apply.
 
-- Prefer words that read naturally with .place
-- Short, clear spelling usually improves recall
-- Check if the word feels commercial or generic
-- Low ask helps, but fit matters more than price
+- 11,411 one-word .place domains available in this set
+- Median ask of $25 keeps entry cost low for most buyers
+- Compound-word names fit location and lifestyle branding
+- Compare pricing and renewal before locking in a pick
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLACE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLACE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
