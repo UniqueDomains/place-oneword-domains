@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .place one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,047 domains · **Median ask:** $23.54 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/place`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| aim.place    | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                   |
-| old.place    | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                |
-| aaa.place    | premium   | $26       | $26           | medium         | medium | 3      | namecheap                  |
-| are.place    | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                   |
-| tax.place    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC               |
-| btw.place    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
-| bjp.place    | available | $25.99    | —             | medium         | low    | 3      | name.com                   |
-| date.place   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                |
-| bum.place    | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                  |
-| bob.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo                   |
-| press.place  | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC                |
-| dye.place    | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap                  |
-| clv.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo                   |
-| unity.place  | resell    | —         | —             | low            | low    | 5      | Sav.com, LLC               |
-| ear.place    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                  |
-| gal.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo                   |
-| center.place | resell    | —         | —             | high           | high   | 6      | Squarespace Domains II LLC |
-| fee.place    | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap                  |
-| gee.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo                   |
-| choice.place | resell    | —         | —             | medium         | low    | 6      | Spaceship, Inc.            |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| aim.place    | available | $22.49    | $22.49        | high           | low    | 3      | namesilo        |
+| old.place    | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
+| aaa.place    | premium   | $26       | $26           | medium         | medium | 3      | namecheap       |
+| are.place    | available | $22.49    | $22.49        | high           | low    | 3      | namesilo        |
+| tax.place    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC    |
+| btw.place    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap       |
+| bjp.place    | available | $25.99    | —             | medium         | low    | 3      | name.com        |
+| date.place   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC     |
+| bum.place    | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap       |
+| bob.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo        |
+| main.place   | resell    | —         | —             | medium         | low    | 4      | —               |
+| dye.place    | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap       |
+| clv.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo        |
+| press.place  | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC     |
+| ear.place    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap       |
+| gal.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo        |
+| unity.place  | resell    | —         | —             | low            | low    | 5      | Sav.com, LLC    |
+| fee.place    | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap       |
+| gee.place    | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo        |
+| choice.place | resell    | —         | —             | medium         | low    | 6      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLACE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLACE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
