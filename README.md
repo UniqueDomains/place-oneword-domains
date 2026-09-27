@@ -1,10 +1,10 @@
-# Available .PLACE One-Word Domains (21,008)
+# Available .PLACE One-Word Domains (21,357)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C008%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C357%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .place one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,008 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,357 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,008 domains · **Median ask:** $24.07 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 21,357 domains · **Median ask:** $24.07 · **High-demand under $2,500:** 5
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/place`
@@ -77,13 +77,13 @@ print(df.head())
 | legal.place    | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | qat.place      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
 | cdc.place      | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                                  |
-| swank.place    | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
+| robotics.place | resell    | —         | —             | high           | low    | 8      | Dynadot Inc                                               |
 | suv.place      | premium   | $14       | $28           | high           | low    | 3      | namecheap                                                 |
 | had.place      | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                                  |
-| robotics.place | resell    | —         | —             | high           | low    | 8      | Dynadot Inc                                               |
 | tin.place      | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                                 |
 | ive.place      | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo                                                  |
 | wan.place      | premium   | $42.90    | $85.80        | high           | low    | 3      | namecheap                                                 |
+| ixc.place      | available | $22.98    | $30.98        | medium         | low    | 3      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,008 live domains                        |
+| 1,000-row public sample | 21,357 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
