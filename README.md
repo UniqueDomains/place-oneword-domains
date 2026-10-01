@@ -1,10 +1,10 @@
-# Available .PLACE One-Word Domains (26,354)
+# Available .PLACE One-Word Domains (28,567)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C354%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C567%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .place one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,354 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,567 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,354 domains · **Median ask:** $23.16 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 28,567 domains · **Median ask:** $22.87 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/place`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | club.place     | resell    | $22.49    | $22.49        | high           | medium | 4      | namesilo                                                  |
 | ams.place      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
 | arp.place      | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                                  |
-| cosy.place     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| tool.place     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                              |
 | atv.place      | premium   | $36.32    | $72.57        | high           | low    | 3      | porkbun                                                   |
 | bap.place      | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                                  |
-| tool.place     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                              |
+| great.place    | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | dee.place      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
 | bun.place      | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                                  |
-| great.place    | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| gemini.place   | resell    | —         | —             | high           | high   | 6      | —                                                         |
 | fly.place      | premium   | $42.90    | $85.80        | high           | medium | 3      | namecheap                                                 |
 | cho.place      | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo                                                  |
 | mobility.place | resell    | —         | —             | high           | low    | 8      | —                                                         |
 | jon.place      | premium   | $42.90    | $85.80        | high           | low    | 3      | namecheap                                                 |
-| esl.place      | available | $17.20    | $17.20        | high           | low    | 3      | cloudflare                                                |
+| csm.place      | available | $17.80    | $17.80        | high           | low    | 3      | spaceship                                                 |
 | ppp.place      | premium   | $42.90    | $85.80        | high           | low    | 3      | namecheap                                                 |
-| foe.place      | available | $17.80    | $17.80        | high           | low    | 3      | spaceship                                                 |
-| suv.place      | premium   | $14       | $28           | high           | low    | 3      | namecheap                                                 |
-| fsa.place      | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                                  |
+| esl.place      | available | $17.20    | $17.20        | high           | low    | 3      | cloudflare                                                |
+| suv.place      | premium   | $22       | $22           | high           | low    | 3      | dynadot                                                   |
+| foe.place      | available | $17.80    | $17.80        | medium         | low    | 3      | spaceship                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,354 live domains                        |
+| 1,000-row public sample | 28,567 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 5 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLACE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLACE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
